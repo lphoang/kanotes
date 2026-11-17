@@ -5,8 +5,8 @@ An Android app, made for Vietnamese chats first, that reads on your phone by def
 
 - **Download:** the latest signed APK is under [Releases](https://github.com/lphoang/kanotes/releases) (Android 12 or newer).
   Kanotes Cloud, the optional subscription, needs the Google Play version, coming soon.
-- **More about Kanotes:** https://leph.vercel.app/apps/kanotes
-- **Privacy policy:** https://leph.vercel.app/apps/kanotes/privacy
+- **More about Kanotes:** https://leph.dev/apps/kanotes
+- **Privacy policy:** https://leph.dev/apps/kanotes/privacy
 
 This repository only hosts releases; the app's source code is not public.
 
